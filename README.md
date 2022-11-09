@@ -42,17 +42,17 @@
 
 	"lastLoggedAt":1667924549057, # auto update for login
 
-	"profile":{
+	"profile":{ "pinsStorage":{"882220015-0-v5":"22"} },
 
-			"pinsStorage":{"882220015-0-v5":"22"}},
+	"isFacebookUser":false,
 
-			"isFacebookUser":false,
+	"isSuperAdmin":true,
 
-			"isSuperAdmin":true,
+	"energy":100000, # can change for your fun
 
-			"energy":100000, # can change for your fun
-
-			"id":"user@blynk.cc-Blynk"}
+	"id":"user@blynk.cc-Blynk"
+	
+	}
 		
 
 # open firewall
