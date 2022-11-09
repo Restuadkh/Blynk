@@ -1,5 +1,15 @@
 # Blynk
+
 cd /var/www/html/
+
+- ubuntu
+
+apt-get install wget
+
+- centos / redhat
+
+yum install wget
+
 wget https://github.com/Restuadkh/Blynk/blob/master/blynk-server.jar
 
 # open firewall
