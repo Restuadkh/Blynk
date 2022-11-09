@@ -4,13 +4,13 @@
 
 - ubuntu
 
-	apt-get install wget
+		apt-get install wget
 
 - centos / redhat
 
-	yum install wget
+		yum install wget
 
-	wget https://github.com/Restuadkh/Blynk/blob/master/blynk-server.jar
+		wget https://github.com/Restuadkh/Blynk/blob/master/blynk-server.jar
 
 # add user Blynk
 
