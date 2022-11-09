@@ -56,3 +56,11 @@ Set your local blynk server IP
 Set port to 8080 or 9443
 
 click OK
+
+# Library for Arduino
+
+https://github.com/Restuadkh/Blynk/blob/master/Blynk_Release_v1.1.0.zip
+
+Instal to arduino
+
+Skath -> Include Library -> add .ZIP Library
