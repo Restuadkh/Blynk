@@ -22,37 +22,37 @@
 
 - Editor
 
-	{
+		{
+			
+		"name":"user@blynk.cc",
+
+		"email":"user@blynk.cc",
+
+		"appName":"Blynk",
+
+		"region":"local",
+
+		"ip":"127.0.0.1", # ip first instal
+
+		"pass":"00zAZN1ejHfoXi758jhbb1UPdrPCMvRptsfiXOcuJ/c=", # can change to login > admin@blynk on web view
+
+		"lastModifiedTs":1667952258536,  # auto update for edit user
+
+		"lastLoggedIP":"192.168.1.10", # last login for
+
+		"lastLoggedAt":1667924549057, # auto update for login
+
+		"profile":{ "pinsStorage":{"882220015-0-v5":"22"} },
+
+		"isFacebookUser":false,
+
+		"isSuperAdmin":true,
+
+		"energy":100000, # can change for your fun
+
+		"id":"user@blynk.cc-Blynk"
 		
-	"name":"user@blynk.cc",
-
-	"email":"user@blynk.cc",
-
-	"appName":"Blynk",
-
-	"region":"local",
-
-	"ip":"127.0.0.1", # ip first instal
-
-	"pass":"00zAZN1ejHfoXi758jhbb1UPdrPCMvRptsfiXOcuJ/c=", # can change to login > admin@blynk on web view
-
-	"lastModifiedTs":1667952258536,  # auto update for edit user
-
-	"lastLoggedIP":"192.168.1.10", # last login for
-
-	"lastLoggedAt":1667924549057, # auto update for login
-
-	"profile":{ "pinsStorage":{"882220015-0-v5":"22"} },
-
-	"isFacebookUser":false,
-
-	"isSuperAdmin":true,
-
-	"energy":100000, # can change for your fun
-
-	"id":"user@blynk.cc-Blynk"
-	
-	}
+		}
 		
 
 # open firewall
