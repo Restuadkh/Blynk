@@ -1,6 +1,6 @@
 # Blynk
 cd /var/www/html/
-wget https://github.com/Restuadkh/Blynk.git
+wget https://github.com/Restuadkh/Blynk/blob/master/blynk-server.jar
 
 # open firewall
 - ubuntu
@@ -26,6 +26,9 @@ crontab -e
 @reboot java -jar /var/www/html/blynk-server.jar -dataFolder /var/www/html//Blynk 
 
 # App Blynk APk
+https://github.com/Restuadkh/Blynk/blob/master/Blynk.apk
+
+Install Apps
 
 Switch server from BLYNK to CUSTOMS
 Set your local blynk server IP
