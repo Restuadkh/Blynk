@@ -32,5 +32,5 @@ Install Apps
 
 Switch server from BLYNK to CUSTOMS
 Set your local blynk server IP
-Set port to 9443
+Set port to 8080 or 9443
 click OK
