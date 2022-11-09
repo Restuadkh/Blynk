@@ -58,20 +58,20 @@
 # open firewall
 - ubuntu
 
-	iptables -A INPUT -p tcp --dport 9443 -j ACCEPT
+		iptables -A INPUT -p tcp --dport 9443 -j ACCEPT
 
-	iptables -A INPUT -p tcp --dport 8080 -j ACCEPT
+		iptables -A INPUT -p tcp --dport 8080 -j ACCEPT
 
 
 - centos / redhad
 
-	firewall-cmd --permanent --zone=public --add-port=8080/tcp
+		firewall-cmd --permanent --zone=public --add-port=8080/tcp
 
-	firewall-cmd --permanent --zone=public --add-port=9443/tcp
+		firewall-cmd --permanent --zone=public --add-port=9443/tcp
 
 # Run
 
-	java -jar ./blynk-server.jar -dataFolder ./Blynk  
+		java -jar ./blynk-server.jar -dataFolder ./Blynk  
 
 login to localhost:9443
 
@@ -83,13 +83,13 @@ Click Login
 
 # job Reboot to StartUp
 
-	crontab -e
+		crontab -e
 
-	@reboot java -jar /var/www/html/blynk-server.jar -dataFolder /var/www/html//Blynk 
+		@reboot java -jar /var/www/html/blynk-server.jar -dataFolder /var/www/html//Blynk 
 
 # App Blynk APk
 
-https://github.com/Restuadkh/Blynk/blob/master/Blynk.apk
+		https://github.com/Restuadkh/Blynk/blob/master/Blynk.apk
 
 Install Apps
 
@@ -103,7 +103,7 @@ click OK
 
 # Library for Arduino
 
-	https://github.com/Restuadkh/Blynk/blob/master/Blynk_Release_v1.1.0.zip
+		https://github.com/Restuadkh/Blynk/blob/master/Blynk_Release_v1.1.0.zip
 
 Instal to arduino
 
