@@ -6,6 +6,9 @@
 
 		apt-get install wget
 
+		
+		wget https://github.com/Restuadkh/Blynk/blob/master/blynk-server.jar
+		
 - centos / redhat
 
 		yum install wget
